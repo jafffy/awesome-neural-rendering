@@ -56,7 +56,7 @@ Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivatio
 
 **2021**
 
-David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [[Paper]](https://arxiv.org/abs/2012.01714) [Project](http://www.computationalimaging.org/publications/automatic-integration/)
+David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [[Paper]](https://arxiv.org/abs/2012.01714) [[Project]](http://www.computationalimaging.org/publications/automatic-integration/)
 
 ### De-rendering
 
@@ -93,3 +93,5 @@ Please feel free to contact us!
 [Jaewon Choi](https://sites.google.com/view/jaewon-choi), Ph.D. student at Yonsei University <jaewon-choi@yonsei.ac.kr>
 
 Seoyeon Stella Yang, Ph.D. candidate at Seoul National University
+
+Neural Rendering Facebook group: [[Link]](https://www.facebook.com/groups/neuralrendering)
