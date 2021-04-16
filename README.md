@@ -104,6 +104,7 @@ Note: due to lack of space, we wrote the first author only.
 |---|---|:---:|:---:|:---:|:---:|
 | Etai Littwin | [On Infinite-Width Hypernetworks](https://arxiv.org/abs/2003.12193) | arXiv | - | - | - |
 | Emilien Dupont | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
+| Inhit Mehta | [Modulated Periodic Activations for Generalizable Local Functional Representations](https://arxiv.org/abs/2104.03960) | arXiv | - | - | - |
 
 
 ### Neural Rendering and Differentiable Rendering in general
