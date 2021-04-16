@@ -34,15 +34,19 @@ Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics F
 
 Stephan J. Garbin et al., "FastNeRF: High-Fidelity Neural Rendering at 200FPS". arXiv. [[Paper]](https://arxiv.org/abs/2103.10380)
 
-Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields". arXiv [[Paper]](https://arxiv.org/abs/2103.14024)
+Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields". arXiv. [[Paper]](https://arxiv.org/abs/2103.14024)
 
-Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
+Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv. [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
 
 **2020**
 
 Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
 
 ### Neural Representation
+
+**2021**
+
+Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields". arXiv. [[Paper]](https://arxiv.org/abs/2104.04523)
 
 **2020**
 
@@ -52,7 +56,7 @@ Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivatio
 
 **2021**
 
-David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [Paper](https://arxiv.org/abs/2012.01714) [Project](http://www.computationalimaging.org/publications/automatic-integration/)
+David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [[Paper]](https://arxiv.org/abs/2012.01714) [Project](http://www.computationalimaging.org/publications/automatic-integration/)
 
 ### De-rendering
 
@@ -62,15 +66,15 @@ TBD
 
 **2018**
 
-SM Ali Eslami et al., "Neural scene representation and rendering". Science. [Paper](https://science.sciencemag.org/content/360/6394/1204.abstract)
+SM Ali Eslami et al., "Neural scene representation and rendering". Science. [[Paper]](https://science.sciencemag.org/content/360/6394/1204.abstract)
 
 ## Blog posts and Videos
 
 **2020**
 
-Frank Dellaert, "NeRF Explosion 2020". [Post](https://dellaert.github.io/NeRF/)
+Frank Dellaert, "NeRF Explosion 2020". [[Post]](https://dellaert.github.io/NeRF/)
 
-Matthias Neißner, "Why Neural Rendering is just Awesome". CMU AI Seminar. [Video](https://www.youtube.com/watch?v=zNvS5hQsWEo)
+Matthias Neißner, "Why Neural Rendering is just Awesome". CMU AI Seminar. [[Video]](https://www.youtube.com/watch?v=zNvS5hQsWEo)
 
 ## Neural Rendering Development
 
