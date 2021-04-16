@@ -52,6 +52,10 @@ Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields"
 
 Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivation Functions". NeurIPS 2020 (Oral). [[Paper]](https://arxiv.org/abs/2006.09661) [[Project]](https://vsitzmann.github.io/siren/)
 
+**2019**
+
+Jeong Joon Park et al., "DeepSDF: Learning Continous Signed Distance Functions for Shape Representation". CVPR 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)
+
 ### Neural Integration
 
 **2021**
