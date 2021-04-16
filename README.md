@@ -90,7 +90,7 @@ Please share your materials (e.g., publications, blog posts) via Pull request.
 
 Please feel free to contact us!
 
-[Jaewon Choi](https://sites.google.com/view/jaewon-choi), Ph.D. student at Yonsei University <jaewon-choi@yonsei.ac.kr>
+[Jaewon Choi](https://sites.google.com/view/jaewon-choi), Ph.D. student at Yonsei University. [[Mail]](<jaewon-choi@yonsei.ac.kr>)
 
 Seoyeon Stella Yang, Ph.D. candidate at Seoul National University
 
