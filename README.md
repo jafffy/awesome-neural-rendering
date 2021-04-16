@@ -1,12 +1,44 @@
-# awesome-neural-rendering
+# awesome-neural-rendering (WiP)
+
+Welcome to awesome-neural-rendering repository! We collect awesome neural rendering materials as other awesome repos do.
+
+Neural rendering is emerging technology that envisons a way to render (mostly) 3D objects into 2D images with deep neural networks, instead of conventional rasterization and ray tracing.
 
 ## Academic Publications
 
-## Surveys
 
-## Personal Blogs
+### Surveys
 
-## Development
+Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics Forum, Vol. 39, Issue 2, 2020. [Paper](https://arxiv.org/abs/2004.03805)
+
+### Neural Radiance Fields (NeRF)
+
+Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [Paper](https://arxiv.org/abs/2003.08934) [Project](https://www.matthewtancik.com/nerf) [Code](https://github.com/bmild/nerf)
+
+### Neural Representation
+
+Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivation Functions". NeurIPS 2020 (Oral). [Paper](https://arxiv.org/abs/2006.09661) [Project](https://vsitzmann.github.io/siren/)
+
+### Neural Integration
+
+David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [Paper](https://arxiv.org/abs/2012.01714) [Project](http://www.computationalimaging.org/publications/automatic-integration/)
+
+### De-rendering
+
+TBD
+
+### Neural Rendering and Differentiable Rendering in general
+
+SM Ali Eslami et al., "Neural scene representation and rendering". Science, 2018. [Paper](https://science.sciencemag.org/content/360/6394/1204.abstract)
+
+
+## Blog posts
+
+Frank Dellaert, "NeRF Explosion 2020". 2020. [Link](https://dellaert.github.io/NeRF/)
+
+## Neural Rendering Development
+
+TBD (e.g., PyTorch3D)
 
 ## Contributing
 
