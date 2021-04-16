@@ -14,7 +14,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
     * [Neural Representation](#neural-representation)
     * [De-rendering](#de-rendering)
     * [Neural Integration](#neural-integration)
-    * []()
+    * [MLP-based Architecture in general](#mlp-based-architecture-in-general)
     * [Neural Rendering and Differentiable Rendering in general](#neural-rendering-and-differentiable-rendering-in-general)
 3. [Blog posts and Videos](#blog-posts-and-videos)
 4. [Neural Rendering Development](#neural-rendering-development)
