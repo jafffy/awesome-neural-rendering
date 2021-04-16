@@ -36,7 +36,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [[Project]](https://www.matthewtancik.com/nerf) | [[Code]](https://github.com/bmild/nerf) | - |
+| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [[Project]](https://www.matthewtancik.com/nerf) | [[TF(Author)]](https://github.com/bmild/nerf) | - |
 
 **2021**
 
