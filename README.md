@@ -1,8 +1,17 @@
-# awesome-neural-rendering (WiP)
+# Awesone Neural Rendering (WiP)
+
+A curated list of awesome neural rendering resources.
 
 Welcome to awesome-neural-rendering repository! We collect awesome neural rendering materials as other awesome repos do.
 
 Neural rendering is emerging technology that envisons a way to render (mostly) 3D objects into 2D images with deep neural networks, instead of conventional rasterization and ray tracing.
+
+**Table of Contents**
+
+1. Academic Publictions
+2. Blog posts and Videos
+3. Neural Rendering Development
+4. Contributing
 
 ## Academic Publications
 
@@ -46,7 +55,9 @@ Your contribution is always welcome!
 
 Please share your materials (e.g., publications, blog posts) via Pull request.
 
-## Maintainer
+### Maintainer
+
+Please feel free to contact us!
 
 Jaewon Choi, Ph.D. student at Yonsei University <jaewon-choi@yonsei.ac.kr>
 
