@@ -26,21 +26,25 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 **2020**
 
-Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics Forum, Vol. 39, Issue 2. [[Paper]](https://arxiv.org/abs/2004.03805)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ayush Tewari et al. | [State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) | Computer Graphics Forum | - | - | - |
 
 ### Neural Radiance Fields (NeRF)
 
 **2020**
 
-Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [[Project]](https://www.matthewtancik.com/nerf) | [[Code]](https://github.com/bmild/nerf) | - |
 
 **2021**
 
-Stephan J. Garbin et al., "FastNeRF: High-Fidelity Neural Rendering at 200FPS". arXiv. [[Paper]](https://arxiv.org/abs/2103.10380)
-
-Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields". arXiv. [[Paper]](https://arxiv.org/abs/2103.14024)
-
-Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv. [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Stephan J. Garbin et al. | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) | arXiv | - | - | - |
+| Alex Yu et al. | [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) | arXiv | - | - | - |
+| Peter Hedman et al. | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [[Project]](https://phog.github.io/snerg/) | - | - |
 
 ### Neural Representation
 
