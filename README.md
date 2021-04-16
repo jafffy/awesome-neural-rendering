@@ -48,9 +48,13 @@ Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for 
 
 Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields". arXiv. [[Paper]](https://arxiv.org/abs/2104.04523)
 
+Towaki Takikawa et al., "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes". arXiv. [[Paper]](https://arxiv.org/abs/2101.10994)
+
 **2020**
 
 Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivation Functions". NeurIPS 2020 (Oral). [[Paper]](https://arxiv.org/abs/2006.09661) [[Project]](https://vsitzmann.github.io/siren/)
+
+Abhimitra Meka et al., "Deep relightable textures: volumetric performance capture with neural rendering". ToG 2020. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3414685.3417814)
 
 **2019**
 
