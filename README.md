@@ -71,6 +71,7 @@ Note: due to lack of space, we wrote the first author only.
 |---|---|:---:|:---:|:---:|:---:|
 | Yuzhe Lu | [Compressive Neural Representations of Volumetric Scala Fields](https://arxiv.org/abs/2104.04523) | arXiv | - | - | - |
 | Towaki Takikawa | [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994) | arXiv | - | - | - |
+| Alexandr Kuznetsov | [NeuMIP: Multi-Resolution Neural Materials](https://arxiv.org/abs/2104.02789) | arXiv | - | - | - |
 
 
 ### De-rendering
