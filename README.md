@@ -36,7 +36,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [[Project]](https://www.matthewtancik.com/nerf) | [[TF(Author)]](https://github.com/bmild/nerf) | - |
+| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [Project](https://www.matthewtancik.com/nerf) | [TF(Author)](https://github.com/bmild/nerf) | - |
 
 **2021**
 
@@ -44,7 +44,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 |---|---|:---:|:---:|:---:|:---:|
 | Stephan J. Garbin et al. | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) | arXiv | - | - | - |
 | Alex Yu et al. | [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) | arXiv | - | - | - |
-| Peter Hedman et al. | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [[Project]](https://phog.github.io/snerg/) | - | - |
+| Peter Hedman et al. | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [Project](https://phog.github.io/snerg/) | - | - |
 
 ### Neural Representation
 
@@ -58,7 +58,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Vincent Sitzmann et al. | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [[Project]](https://vsitzmann.github.io/siren/) | - | - |
+| Vincent Sitzmann et al. | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [Project](https://vsitzmann.github.io/siren/) | - | - |
 | Abhimitra Meka et al.	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
 
 **2021**
@@ -76,7 +76,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| David B. Lindell et al. | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [[Project]](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
+| David B. Lindell et al. | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [Project](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
 | Zongyi Li et al. | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
 
 ### De-rendering
