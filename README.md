@@ -96,7 +96,7 @@ TBD
 **2020**
 
 | Author/Speaker | Title | Venue | Media |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | Frank Dellaert | [NeRF Explosion 2020](https://dellaert.github.io/NeRF/) | - | Blog |
 | Matthias Neißner | [Why Neural Rendering is just Awesome](https://www.youtube.com/watch?v=zNvS5hQsWEo) | CMU AI Seminar | YouTube |
 
