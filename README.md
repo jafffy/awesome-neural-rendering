@@ -21,6 +21,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 ## Academic Publications
 
+Note: due to lack of space, we wrote the first author only.
 
 ### Surveys
 
@@ -28,7 +29,7 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Ayush Tewari et al. | [State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) | Computer Graphics Forum | - | - | - |
+| Ayush Tewari | [State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) | Computer Graphics Forum | - | - | - |
 
 ### Neural Radiance Fields (NeRF)
 
@@ -36,15 +37,15 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [Project](https://www.matthewtancik.com/nerf) | [TF(Author)](https://github.com/bmild/nerf) | - |
+| Ben Mildenhall | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [Project](https://www.matthewtancik.com/nerf) | [TF(Author)](https://github.com/bmild/nerf) | - |
 
 **2021**
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Stephan J. Garbin et al. | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) | arXiv | - | - | - |
-| Alex Yu et al. | [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) | arXiv | - | - | - |
-| Peter Hedman et al. | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [Project](https://phog.github.io/snerg/) | - | - |
+| Stephan J. Garbin | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) | arXiv | - | - | - |
+| Alex Yu | [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) | arXiv | - | - | - |
+| Peter Hedman | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [Project](https://phog.github.io/snerg/) | - | - |
 
 ### Neural Representation
 
@@ -52,22 +53,22 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Jeong Joon Park et al. | [DeepSDF: Learning Continous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) | CVPR | - | - | - |
+| Jeong Joon Park | [DeepSDF: Learning Continous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) | CVPR | - | - | - |
 
 **2020**
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Vincent Sitzmann et al. | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [Project](https://vsitzmann.github.io/siren/) | - | - |
-| Abhimitra Meka et al.	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
+| Vincent Sitzmann | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [Project](https://vsitzmann.github.io/siren/) | - | - |
+| Abhimitra Meka	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
 
 **2021**
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Yuzhe Lu et al. | [Compressive Neural Representations of Volumetric Scala Fields](https://arxiv.org/abs/2104.04523) | arXiv | - | - | - |
-| Towaki Takikawa et al. | [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994) | arXiv | - | - | - |
-| Emilien Dupont et al. | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
+| Yuzhe Lu | [Compressive Neural Representations of Volumetric Scala Fields](https://arxiv.org/abs/2104.04523) | arXiv | - | - | - |
+| Towaki Takikawa | [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994) | arXiv | - | - | - |
+| Emilien Dupont | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
 
 
 ### Neural Integration
@@ -76,8 +77,8 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| David B. Lindell et al. | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [Project](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
-| Zongyi Li et al. | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
+| David B. Lindell | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [Project](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
+| Zongyi Li | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
 
 ### De-rendering
 
@@ -89,7 +90,7 @@ TBD
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| SM Ali Eslami et al. | [Neural scene representation and rendering](https://science.sciencemag.org/content/360/6394/1204.abstract) | Science | - | - | - |
+| SM Ali Eslami | [Neural scene representation and rendering](https://science.sciencemag.org/content/360/6394/1204.abstract) | Science | - | - | - |
 
 ## Blog posts and Videos
 
