@@ -32,7 +32,7 @@ TBD
 SM Ali Eslami et al., "Neural scene representation and rendering". Science, 2018. [Paper](https://science.sciencemag.org/content/360/6394/1204.abstract)
 
 
-## Blog posts
+## Blog posts and Videos
 
 Frank Dellaert, "NeRF Explosion 2020". 2020. [Link](https://dellaert.github.io/NeRF/)
 
