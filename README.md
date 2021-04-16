@@ -30,6 +30,14 @@ Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics F
 
 ### Neural Radiance Fields (NeRF)
 
+**2021**
+
+Stephan J. Garbin et al., "FastNeRF: High-Fidelity Neural Rendering at 200FPS". arXiv. [[Paper]](https://arxiv.org/abs/2103.10380)
+
+Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields". arXiv [[Paper]](https://arxiv.org/abs/2103.14024)
+
+Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
+
 **2020**
 
 Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
@@ -54,13 +62,15 @@ TBD
 
 **2018**
 
-SM Ali Eslami et al., "Neural scene representation and rendering". Science, 2018. [Paper](https://science.sciencemag.org/content/360/6394/1204.abstract)
+SM Ali Eslami et al., "Neural scene representation and rendering". Science. [Paper](https://science.sciencemag.org/content/360/6394/1204.abstract)
 
 ## Blog posts and Videos
 
 **2020**
 
-Frank Dellaert, "NeRF Explosion 2020". 2020. [Link](https://dellaert.github.io/NeRF/)
+Frank Dellaert, "NeRF Explosion 2020". [Post](https://dellaert.github.io/NeRF/)
+
+Matthias Neißner, "Why Neural Rendering is just Awesome". CMU AI Seminar. [Video](https://www.youtube.com/watch?v=zNvS5hQsWEo)
 
 ## Neural Rendering Development
 
@@ -76,6 +86,6 @@ Please share your materials (e.g., publications, blog posts) via Pull request.
 
 Please feel free to contact us!
 
-Jaewon Choi, Ph.D. student at Yonsei University <jaewon-choi@yonsei.ac.kr>
+[Jaewon Choi](https://sites.google.com/view/jaewon-choi), Ph.D. student at Yonsei University <jaewon-choi@yonsei.ac.kr>
 
 Seoyeon Stella Yang, Ph.D. candidate at Seoul National University
