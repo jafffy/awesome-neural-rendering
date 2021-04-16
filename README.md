@@ -82,7 +82,7 @@ TBD
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
 | David B. Lindell | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [Project](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
-| Zongyi Li | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
+| Zongyi Li | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | ICLR | - | - | - |
 
 ### MLP-based Architecture in general
 
