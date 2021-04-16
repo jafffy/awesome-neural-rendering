@@ -30,6 +30,10 @@ Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics F
 
 ### Neural Radiance Fields (NeRF)
 
+**2020**
+
+Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
+
 **2021**
 
 Stephan J. Garbin et al., "FastNeRF: High-Fidelity Neural Rendering at 200FPS". arXiv. [[Paper]](https://arxiv.org/abs/2103.10380)
@@ -38,17 +42,11 @@ Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields".
 
 Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv. [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
 
-**2020**
-
-Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
-
 ### Neural Representation
 
-**2021**
+**2019**
 
-Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields". arXiv. [[Paper]](https://arxiv.org/abs/2104.04523)
-
-Towaki Takikawa et al., "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes". arXiv. [[Paper]](https://arxiv.org/abs/2101.10994)
+Jeong Joon Park et al., "DeepSDF: Learning Continous Signed Distance Functions for Shape Representation". CVPR 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)
 
 **2020**
 
@@ -56,15 +54,22 @@ Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivatio
 
 Abhimitra Meka et al., "Deep relightable textures: volumetric performance capture with neural rendering". ToG 2020. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3414685.3417814)
 
-**2019**
+**2021**
 
-Jeong Joon Park et al., "DeepSDF: Learning Continous Signed Distance Functions for Shape Representation". CVPR 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)
+Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields". arXiv. [[Paper]](https://arxiv.org/abs/2104.04523)
+
+Towaki Takikawa et al., "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes". arXiv. [[Paper]](https://arxiv.org/abs/2101.10994)
+
+Emilien Dupont et al., "Generative Models as Distributions of Functions". arXiv. [[Paper]](https://arxiv.org/abs/2102.04776)
+
 
 ### Neural Integration
 
 **2021**
 
 David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [[Paper]](https://arxiv.org/abs/2012.01714) [[Project]](http://www.computationalimaging.org/publications/automatic-integration/)
+
+Zongyi Li et al., "Fourier Neural Operator for Parametric Partial Differential Equations". arXiv. [[Paper]](https://arxiv.org/abs/2010.08895)
 
 ### De-rendering
 
