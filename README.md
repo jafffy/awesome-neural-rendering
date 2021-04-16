@@ -12,8 +12,9 @@ Enjoy the list, and [contribution](#contributing) is welcome!
     * [Surveys](#surveys)
     * [Neural Radiance Fields (NeRF)](#neural-radiance-fields-nerf)
     * [Neural Representation](#neural-representation)
-    * [Neural Integration](#neural-integration)
     * [De-rendering](#de-rendering)
+    * [Neural Integration](#neural-integration)
+    * []()
     * [Neural Rendering and Differentiable Rendering in general](#neural-rendering-and-differentiable-rendering-in-general)
 3. [Blog posts and Videos](#blog-posts-and-videos)
 4. [Neural Rendering Development](#neural-rendering-development)
@@ -60,7 +61,6 @@ Note: due to lack of space, we wrote the first author only.
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
-| Vincent Sitzmann | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [Project](https://vsitzmann.github.io/siren/) | - | - |
 | Abhimitra Meka	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
 
 **2021**
@@ -69,8 +69,11 @@ Note: due to lack of space, we wrote the first author only.
 |---|---|:---:|:---:|:---:|:---:|
 | Yuzhe Lu | [Compressive Neural Representations of Volumetric Scala Fields](https://arxiv.org/abs/2104.04523) | arXiv | - | - | - |
 | Towaki Takikawa | [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994) | arXiv | - | - | - |
-| Emilien Dupont | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
 
+
+### De-rendering
+
+TBD
 
 ### Neural Integration
 
@@ -81,9 +84,21 @@ Note: due to lack of space, we wrote the first author only.
 | David B. Lindell | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [Project](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
 | Zongyi Li | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
 
-### De-rendering
+### MLP-based Architecture in general
 
-TBD
+**2020**
+
+| Author | Title | Venue | Project | Code | etc. |
+|---|---|:---:|:---:|:---:|:---:|
+| Vincent Sitzmann | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [Project](https://vsitzmann.github.io/siren/) | - | - |
+
+**2021**
+
+| Author | Title | Venue | Project | Code | etc. |
+|---|---|:---:|:---:|:---:|:---:|
+| Etai Littwin | [On Infinite-Width Hypernetworks](https://arxiv.org/abs/2003.12193) | arXiv | - | - | - |
+| Emilien Dupont | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
+
 
 ### Neural Rendering and Differentiable Rendering in general
 
