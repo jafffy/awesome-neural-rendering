@@ -56,12 +56,14 @@ Note: due to lack of space, we wrote the first author only.
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
 | Jeong Joon Park | [DeepSDF: Learning Continous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) | CVPR | - | - | - |
+| Vincent Sitzmann | [Scene Representation Networks: Continous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/abs/1906.01618) | NeurIPS | [Project](https://vsitzmann.github.io/srns/) | [Code](https://github.com/vsitzmann/scene-representation-networks) | Honorable Mention |
 
 **2020**
 
 | Author | Title | Venue | Project | Code | etc. |
 |---|---|:---:|:---:|:---:|:---:|
 | Abhimitra Meka	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
+
 
 **2021**
 
@@ -73,7 +75,11 @@ Note: due to lack of space, we wrote the first author only.
 
 ### De-rendering
 
-TBD
+**2021**
+
+| Author | Title | Venue | Project | Code | etc. |
+|---|---|:---:|:---:|:---:|:---:|
+| Shangzhe Wu | [De-rendering the World's Revolutionary Artefacts](https://arxiv.org/abs/2104.03954) | CVPR | [Project](https://sorderender.github.io/) | - | - |
 
 ### Neural Integration
 
