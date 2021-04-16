@@ -2,7 +2,7 @@
 
 A curated list of awesome neural rendering resources!
 
-Neural rendering is emerging technology that envisons a way to render (mostly) 3D objects into 2D images with deep neural networks, instead of conventional rasterization and ray tracing.
+Neural rendering is emerging technology that envisons a way to render (mostly) 3D objects into 2D images with deep neural networks, instead of conventional rasterization and ray tracing. How awesome!
 
 Please enjoy the list and [contribution](#contributing) is welcome!
 
