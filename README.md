@@ -124,6 +124,7 @@ Note: due to lack of space, we wrote the first author only.
 |---|---|:---:|:---:|
 | Frank Dellaert | [NeRF Explosion 2020](https://dellaert.github.io/NeRF/) | - | Blog |
 | Matthias Neißner | [Why Neural Rendering is just Awesome](https://www.youtube.com/watch?v=zNvS5hQsWEo) | CMU AI Seminar | YouTube |
+| Various speakers | [Neural Rendering - CVPR 2020 tutorial](https://www.neuralrender.com) | CVPR | YouTube |
 
 ## Neural Rendering Development
 
