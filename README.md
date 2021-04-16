@@ -26,50 +26,58 @@ Enjoy the list, and [contribution](#contributing) is welcome!
 
 **2020**
 
-Ayush Tewari et al., "State of the Art on Neural Rendering". Computer Graphics Forum, Vol. 39, Issue 2. [[Paper]](https://arxiv.org/abs/2004.03805)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ayush Tewari et al. | [State of the Art on Neural Rendering](https://arxiv.org/abs/2004.03805) | Computer Graphics Forum | - | - | - |
 
 ### Neural Radiance Fields (NeRF)
 
 **2020**
 
-Ben Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis". ECCV 2020. [[Paper]](https://arxiv.org/abs/2003.08934) [[Project]](https://www.matthewtancik.com/nerf) [[Code]](https://github.com/bmild/nerf)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ben Mildenhall et al. | [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) | ECCV | [[Project]](https://www.matthewtancik.com/nerf) | [[Code]](https://github.com/bmild/nerf) | - |
 
 **2021**
 
-Stephan J. Garbin et al., "FastNeRF: High-Fidelity Neural Rendering at 200FPS". arXiv. [[Paper]](https://arxiv.org/abs/2103.10380)
-
-Alex Yu et al., "PlenOctrees for Real-time Rendering of Neural Radiance Fields". arXiv. [[Paper]](https://arxiv.org/abs/2103.14024)
-
-Peter Hedman et al., "Baking Neural Radiance Fields for Real-Time View Syntheis". arXiv. [[Paper]](https://arxiv.org/abs/2103.14645) [[Project]](https://phog.github.io/snerg/)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Stephan J. Garbin et al. | [FastNeRF: High-Fidelity Neural Rendering at 200FPS](https://arxiv.org/abs/2103.10380) | arXiv | - | - | - |
+| Alex Yu et al. | [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2103.14024) | arXiv | - | - | - |
+| Peter Hedman et al. | [Baking Neural Radiance Fields for Real-Time View Syntheis](https://arxiv.org/abs/2103.14645) | arXiv | [[Project]](https://phog.github.io/snerg/) | - | - |
 
 ### Neural Representation
 
 **2019**
 
-Jeong Joon Park et al., "DeepSDF: Learning Continous Signed Distance Functions for Shape Representation". CVPR 2019. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Jeong Joon Park et al. | [DeepSDF: Learning Continous Signed Distance Functions for Shape Representation](https://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html) | CVPR | - | - | - |
 
 **2020**
 
-Vincent Sitzmann et al., "Implicit Neural Representations with Periodic Acivation Functions". NeurIPS 2020 (Oral). [[Paper]](https://arxiv.org/abs/2006.09661) [[Project]](https://vsitzmann.github.io/siren/)
-
-Abhimitra Meka et al., "Deep relightable textures: volumetric performance capture with neural rendering". ToG 2020. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3414685.3417814)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vincent Sitzmann et al. | [Implicit Neural Representations with Periodic Acivation Functions](https://arxiv.org/abs/2006.09661) | NeurIPS | [[Project]](https://vsitzmann.github.io/siren/) | - | - |
+| Abhimitra Meka et al.	| [Deep relightable textures: volumetric performance capture with neural rendering](https://dl.acm.org/doi/abs/10.1145/3414685.3417814) | ToG | - | - | - |
 
 **2021**
 
-Yuzhe Lu et al., "Compressive Neural Representations of Volumetric Scala Fields". arXiv. [[Paper]](https://arxiv.org/abs/2104.04523)
-
-Towaki Takikawa et al., "Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes". arXiv. [[Paper]](https://arxiv.org/abs/2101.10994)
-
-Emilien Dupont et al., "Generative Models as Distributions of Functions". arXiv. [[Paper]](https://arxiv.org/abs/2102.04776)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Yuzhe Lu et al. | [Compressive Neural Representations of Volumetric Scala Fields](https://arxiv.org/abs/2104.04523) | arXiv | - | - | - |
+| Towaki Takikawa et al. | [Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Shapes](https://arxiv.org/abs/2101.10994) | arXiv | - | - | - |
+| Emilien Dupont et al. | [Generative Models as Distributions of Functions](https://arxiv.org/abs/2102.04776) | arXiv | - | - | - |
 
 
 ### Neural Integration
 
 **2021**
 
-David B. Lindell et al., "AutoInt: Automatic Integration for Fast Neural Volume Rendering". CVPR 2021. [[Paper]](https://arxiv.org/abs/2012.01714) [[Project]](http://www.computationalimaging.org/publications/automatic-integration/)
-
-Zongyi Li et al., "Fourier Neural Operator for Parametric Partial Differential Equations". arXiv. [[Paper]](https://arxiv.org/abs/2010.08895)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| David B. Lindell et al. | [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714) | CVPR | [[Project]](http://www.computationalimaging.org/publications/automatic-integration/) | - | - |
+| Zongyi Li et al. | [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895) | arXiv | - | - | - |
 
 ### De-rendering
 
@@ -79,15 +87,18 @@ TBD
 
 **2018**
 
-SM Ali Eslami et al., "Neural scene representation and rendering". Science. [[Paper]](https://science.sciencemag.org/content/360/6394/1204.abstract)
+| Author | Title | Venue | Project | Code | etc. |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| SM Ali Eslami et al. | [Neural scene representation and rendering](https://science.sciencemag.org/content/360/6394/1204.abstract) | Science | - | - | - |
 
 ## Blog posts and Videos
 
 **2020**
 
-Frank Dellaert, "NeRF Explosion 2020". [[Post]](https://dellaert.github.io/NeRF/)
-
-Matthias Neißner, "Why Neural Rendering is just Awesome". CMU AI Seminar. [[Video]](https://www.youtube.com/watch?v=zNvS5hQsWEo)
+| Author/Speaker | Title | Venue | Media |
+|:---:|:---:|:---:|
+| Frank Dellaert | [NeRF Explosion 2020](https://dellaert.github.io/NeRF/) | - | Blog |
+| Matthias Neißner | [Why Neural Rendering is just Awesome](https://www.youtube.com/watch?v=zNvS5hQsWEo) | CMU AI Seminar | YouTube |
 
 ## Neural Rendering Development
 
